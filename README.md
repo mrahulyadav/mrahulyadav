@@ -1,5 +1,11 @@
-### <center><h1 >Hi there 👋 I'm Rahul </h1></center>
--🌱 I’m currently learning Full-Stack Web Development from Masai School Bangaluru
+<h1 >Hi there 👋 I'm Rahul </h1>
+🌱 I’m currently learning Full-Stack Web Development from Masai School Bangaluru
+<br />
+💬 Ask me about javaSrcipt
+<br />
+📫 How to reach me: rahul.yadav96@hotmail.com
+<h2>About Me </h2>
+<p>I'm from Uttar Pradesh, India. </p>
 <!--
 **rahulyadav96/rahulyadav96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
