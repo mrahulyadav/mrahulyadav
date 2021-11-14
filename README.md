@@ -1,7 +1,7 @@
 <h1 >Hi there 👋 I'm Rahul </h1>
 🌱 I’m currently learning Full-Stack Web Development from Masai School Bangaluru
 <br />
-💬 Ask me about javaSrcipt
+💬 Ask me about javaScript
 <br />
 📫 How to reach me: rahul.yadav96@hotmail.com
 <h2>About Me </h2>
