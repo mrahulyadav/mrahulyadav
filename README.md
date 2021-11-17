@@ -1,4 +1,5 @@
-<h1 >Hi there 👋 I'm Rahul </h1>
+<h1 align="center" >Hi there 👋 I'm Rahul </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulyadav96" alt="rahulyadav" /> </p>
 🌱 I’m currently learning Full-Stack Web Development from Masai School Bangaluru
 <br />
 💬 Ask me about javaScript
@@ -6,6 +7,11 @@
 📫 How to reach me: rahul.yadav96@hotmail.com
 <h2>About Me </h2>
 <p>I'm from Uttar Pradesh, India. </p>
+
+### Github Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahulyadav96&show_icons=true&theme=dark" alt="rahulyadav" /> 
+
 <!--
 **rahulyadav96/rahulyadav96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
