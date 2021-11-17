@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulyadav96" alt="rahulyadav" /> </p>
 🌱 I’m currently learning Full-Stack Web Development from Masai School Bangaluru
 <br />
-💬 Ask me about javaScript
+💬 Ask me about javaScript,ReactJS
 <br />
 📫 How to reach me: rahul.yadav96@hotmail.com
 <h2>About Me </h2>
