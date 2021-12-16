@@ -9,7 +9,7 @@
 <br />
 See My: <a href="https://rahulyadav-portfolio.netlify.app/" target="_blank">Portfolio</a>
 <h2>About Me </h2>
-<p>I am graduated in full-stack web development from Masai School. I like problem-solving and coding. Always strive to bring 100% to the work I do. I have done couple of projects using technologies like ReactJS, ExpressJS, MongoDB, Redux, HTML5, CSS, Mongoose NodeJS etc. I am passionate about developing complex applications that solve real-world problems impacting millions of users.</p>
+<p>I have graduated in full-stack web development from Masai School. I like problem-solving and coding. Always strive to bring 100% to the work I do. I have done couple of projects using technologies like ReactJS, ExpressJS, MongoDB, Redux, HTML5, CSS, Mongoose NodeJS etc. I am passionate about developing complex applications that solve real-world problems impacting millions of users.</p>
 
 ### 
 <h2>Github Stats</h2>
