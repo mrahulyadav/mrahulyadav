@@ -7,7 +7,7 @@
 See My: <a href="https://rahulyadav-portfolio.netlify.app/" target="_blank">Portfolio</a>
 <h2>About Me </h2>
 <p>I have graduated in full-stack web development from Masai School. I like problem-solving and coding. Always strive to bring 100% to the work I do. I have done couple of projects using technologies like ReactJS, ExpressJS, MongoDB, Redux, HTML5, CSS, Mongoose NodeJS etc.</p>
-<p> I like developing complex applications that solve real-world problems through tech.</p>
+<p> I like developing complex applications that solve real-world problems with help of tech.</p>
 <h2>Contact me</h2>
         Email: <a  href="mailto:mrahul.yadav96@gmail.com" >mrahul.yadav96@gmail.com</a>
 <br />
