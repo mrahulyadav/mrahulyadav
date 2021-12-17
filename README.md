@@ -7,8 +7,7 @@
 <br />
 See My: <a href="https://rahulyadav-portfolio.netlify.app/" target="_blank">Portfolio</a>
 <h2>About Me </h2>
-<p>I have graduated in full-stack web development from Masai School. I like problem-solving and coding. Always strive to bring 100% to the work I do. I have done couple of projects using technologies like ReactJS, ExpressJS, MongoDB, Redux, HTML5, CSS, Mongoose NodeJS etc.</p>
-<p> I like developing complex applications that solve real-world problems with help of tech.</p>
+<p>Flexible, reliable and I am able to work well in a team. I am an enthusiastic and self-driven person, wanting to excel in the field of software development by applying my problem solving abilities and knowledge. Having completed Masai Schools Coding Bootcamp which followed the intense military style 9-9-6 curriculum, where I specialized in Web Development along with Data Structures & Algorithms, I now feel confident to take on the challenging role of a Software Developer and look forward to start my career!</p>
 
 ## Contact me
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rahulyadav96/)
