@@ -7,11 +7,8 @@
 <br />
 <h3><a href="https://rahulyadav-portfolio.netlify.app/" target="_blank">Portfolio</a></h3>
 <h2>About Me </h2>
-<p>Hi, I am Rahul Yadav, a software developer with a curious mind. Having excellent problem-solving skills, confidence to achieve, and a can-do attitude toward any challenge.</p>
+<p>Hi, I am Rahul Yadav, a software developer with a curious mind. Having excellent problem-solving skills, confidence to achieve, and a can-do attitude toward any challenge.Have completed Masai School's Coding Bootcamp which followed the intense military-style 9-9-6 curriculum, where I specialized in MERN stack along with Data Structures & Algorithms.</p>
 
-<p>
-Have completed Masai School's Coding Bootcamp which followed the intense military-style 9-9-6 curriculum, where I specialized in MERN stack along with Data Structures & Algorithms.
-</p>
 ## Contact me
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rahulyadav96/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/rahulyadav96/)
