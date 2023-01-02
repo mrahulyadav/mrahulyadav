@@ -7,7 +7,7 @@
 <br />
 <h3><a href="https://rahulyadav-portfolio.netlify.app/" target="_blank">Portfolio</a></h3>
 <h2>About Me </h2>
-<p>Flexible, reliable and I am able to work well in a team. I am an enthusiastic and self-driven person, wanting to excel in the field of software development by applying my problem solving abilities and knowledge. Having completed Masai Schools Coding Bootcamp which followed the intense military style 9-9-6 curriculum, where I specialized in Web Development along with Data Structures & Algorithms, I now feel confident to take on the challenging role of a Software Developer and look forward to start my career!</p>
+<p>Hi, I am Rahul Yadav, a software developer with a curious mind. Having excellent problem-solving skills, confidence to achieve, and a can-do attitude toward any challenge.</p>
 
 ## Contact me
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rahulyadav96/)
