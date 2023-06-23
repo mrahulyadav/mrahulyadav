@@ -1,9 +1,6 @@
 <h1 align="center" >Hi there 👋 I'm Rahul </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulyadav96" alt="rahulyadav" /> </p>
-🌱 I’m currently learning Full-Stack Web Development from Masai School Bangaluru
-<br />
-💬 Ask me about javaScript, ReactJS, Redux
-<br />
+🌱 I’m currently working as Software Developer for Deskala.
 <br />
 <h3><a href="https://rahulyadav-portfolio.netlify.app/" target="_blank">Portfolio</a></h3>
 <h2>About Me </h2>
