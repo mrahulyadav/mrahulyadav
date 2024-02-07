@@ -1,14 +1,14 @@
 <h1 align="center" >Hi there 👋 I'm Rahul </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulyadav96" alt="rahulyadav" /> </p>
-🌱 Seasoned Software Engineer with 1.6+ years of experience in the software development industry. Proven ability to design, develop, and test software applications. <br />I have completed 7 months of coding bootcamp training in Full stack web development (MERN stack)and DSA from Masai School. <br />Looking for an opportunity to apply my skills in new ways, and I’d love to bring my expertise and enthusiasm to your growing development team. Expertise in JavaScript and Node.js with strong problem-solving and analytical skills.
+🌱 Seasoned Software Engineer with 2+ years of experience in the software development industry. Proven ability to design, develop, and test software applications. <br />I have completed 7 months of coding bootcamp training in Full stack web development (MERN stack)and DSA from Masai School. <br />Looking for an opportunity to apply my skills in new ways, and I’d love to bring my expertise and enthusiasm to your growing development team. Expertise in JavaScript and Node.js with strong problem-solving and analytical skills.
 <br />
 <h3><a href="https://rahulyadav-portfolio.netlify.app/" target="_blank">Portfolio</a></h3>
 <h2>About Me </h2>
-<p>I'm a Software Developer with a curious mind. Having excellent problem-solving skills, confidence to achieve, and a can-do attitude toward any challenge.Have completed Masai School's Coding Bootcamp which followed the intense military-style 9-9-6 curriculum, where I specialized in MERN stack along with Data Structures & Algorithms.</p>
+<p>I am Rahul yadav a Software Developer. I Started my journey of coding from doing my Polytechnic diploma in IT after this I joined Masai School, a coding bootcamp, which followed the intense military-style 9-9-6 curriculum, where I got specialized in MERN stack along with Data Structures & Algorithms.</p>
 
 ## Contact me
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rahulyadav96/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/rahulyadav96/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://linkedin.com/in/mrahulyadav/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mrahul.yadav96@gmail.com)
 
 <h2>Github Stats</h2>
