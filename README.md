@@ -2,7 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulyadav96" alt="rahulyadav" /> </p>
 🌱 Seasoned Software Engineer with 2+ years of experience in the software development industry. Proven ability to design, develop, and test software applications. <br />I have completed 7 months of coding bootcamp training in Full stack web development (MERN stack)and DSA from Masai School. <br />Looking for an opportunity to apply my skills in new ways, and I’d love to bring my expertise and enthusiasm to your growing development team. Expertise in JavaScript and Node.js with strong problem-solving and analytical skills.
 <br />
-<h3><a href="https://rahulyadav-portfolio.netlify.app/" target="_blank">Portfolio</a></h3>
 <h2>About Me </h2>
 <p>I am Rahul yadav a Software Developer. I Started my journey of coding from doing my Polytechnic diploma in IT after this I joined Masai School, a coding bootcamp, which followed the intense military-style 9-9-6 curriculum, where I got specialized in MERN stack along with Data Structures & Algorithms.</p>
 
