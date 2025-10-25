@@ -1,4 +1,4 @@
-<h1 align="center" >Hi there 👋 I'm Rahul </h1>
+<h1 align="center" >Hi there 👋 Rahul here </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulyadav96" alt="rahulyadav" /> </p>
 🌱 Seasoned Software Engineer with 3.5+ years of experience in the software development industry. Proven ability to design, develop, and test software applications. <br />I have completed 7 months of coding bootcamp training in Full stack web development (MERN stack) with Data Structure and Algorithms from Masai School. <br />Looking for an opportunity to apply my skills in new ways, and I’d love to bring my expertise and enthusiasm to your growing development team. Expertise in JavaScript and Node.js with strong problem-solving and analytical skills.
 <br />
