@@ -6,10 +6,10 @@
 <p>I am Rahul yadav a Full Stack Web Developer. I Started my journey of coding from doing my Polytechnic diploma in IT after this I joined Masai School, a coding bootcamp, which followed the intense military-style 9-9-6 curriculum, where I got specialized in MERN stack along with Data Structures & Algorithms.</p>
 
 ## Contact me
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/imrahulyadav22/)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/imrahulyadav22/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fdrahul0@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mrahulyadav/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mrahulyadav/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mrahulyadav.07@gmail.com)
 
 <h2>Github Stats</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=imrahulyadav22&show_icons=true&theme=dark" alt="rahulyadav" /> 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrahulyadav&show_icons=true&theme=dark" alt="rahulyadav" /> 
 
